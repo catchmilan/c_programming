@@ -10,6 +10,6 @@ int main()
     name[i]='\0';
     printf("Enter the age:");
     scanf("%d",&age);
-    printf("Hello %s, next year you will be %d.",name, age+1);
+    printf("Hello %s, next year you will be %d. . The message is from git hub cloud.",name, age+1);
     return 0;
 }
